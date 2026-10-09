@@ -1,2 +1,4 @@
 # JSBlox
-JSBlox is a recreation of WebBlox.
+JSBlox is a recreation of WebBlox But Better.
+
+VERISONS ARE STILL CURRENTLY ON BETA. IF YOU DISCOVER BUGS, PLEASE TELL ME ABOUT IT.
