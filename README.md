@@ -7,7 +7,6 @@ Welcome to JSBlox, Roblox in web.
 # Planned Client
 2026 Client
 
-QUESTIONS You might possibly ask.
 # Does it need to use 127.0.0.1 to work just like Webblox?
 No, it dosen't need to use 127.0.0.1 to work just like webblox.
 This html uses three.js, which is safe for html.
